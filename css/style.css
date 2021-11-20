@@ -1,0 +1,30 @@
+body{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+}
+ul{
+    list-style-type: none;
+    margin-top: 0;
+    margin-bottom: 0px;
+    margin-left: 60px;
+}
+.logo{
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.navigation-a{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: inline-block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: none;
+}
+.header-banner{
+    height: 400px;
+    margin-left: 100px;
+}
